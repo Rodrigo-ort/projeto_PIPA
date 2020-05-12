@@ -1,0 +1,3 @@
+language = "undefined"
+#run = "pip install bs4"
+run = " python main.py"
